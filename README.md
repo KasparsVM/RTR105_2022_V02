@@ -18,4 +18,16 @@ Elektroniskā klade Datormācība
 
 ## Class2
 whoami - komanda norāda, kurš lietotājs ir pieslēdzies
-
+last - izvada laiku, kad tika sākts izmantots terminālis
+pwd - izvada starta direktorijas nosaukumu
+history - izvada vēsturi ar komandām, kuras tika lietotas pirmstam
+ls - izvada datorā atrodošos failus
+>ls -a , ls -l , ls -a -l
+echo - izvada tekstu 
+sh - atver shell 
+pwd - izvada pilno ceļu līdz esošajai direktorijai
+cd - ļauj parvietoties pa direktorijām
+> cd /home , cd /home/user
+mkdir - ļauj izveidot direktoriju
+> mdir ABC, /root/ABC
+mv - ļauj pārvietot lietas pa direktorijām
