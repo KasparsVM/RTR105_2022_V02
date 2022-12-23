@@ -23,7 +23,7 @@ int main(void) {
     long long product = num1 * num2;
 
     // Izvada rezultātu
-    printf("Skaitlu eizinajums ir: %lld\n", product);
+    printf("Skaitlu reizinajums ir: %lld\n", product);
 
     return 0;
 }
